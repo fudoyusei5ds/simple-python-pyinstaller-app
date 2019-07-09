@@ -7,9 +7,6 @@ import sys
 import calc
 
 
-
-
-
 argnumbers = len(sys.argv) - 1
 
 if argnumbers == 2 :
