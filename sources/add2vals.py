@@ -6,7 +6,6 @@ the calc.py library's 'add2' function.
 import sys
 import calc
 
-
 argnumbers = len(sys.argv) - 1
 
 if argnumbers == 2 :
